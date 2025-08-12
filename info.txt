@@ -1,3 +1,4 @@
+S E X F X
 //aplicar no banco
 npx drizzle-kit push
 
